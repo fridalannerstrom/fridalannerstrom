@@ -22,7 +22,7 @@
   `Python · scikit-learn · Streamlit`
 
 - **[Selekt](https://github.com/fridalannerstrom/selekt)** – Django platform for candidate management with AI features  
-  `Django · PostgreSQL · Azure Blob · OpenAI`
+  `Django · PostgreSQL · Heroku · OpenAI`
 
 - **[My Dog Breed Quiz](https://github.com/fridalannerstrom/my-dog-breed)** – small JS quiz app  
   `JavaScript`
