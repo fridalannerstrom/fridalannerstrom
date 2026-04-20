@@ -13,7 +13,6 @@
 ---
 
 ### 🚀 What I’m working on
-- **Cleo** – an AI-assisted recruitment platform (Django, Azure, OpenAI)
 - **Selekt** – a candidate database with filtering, modals, and saved sessions
 - **Wildlife Collision Predictor** – ML model in Streamlit predicting wildlife accident risk on Swedish roads
 
