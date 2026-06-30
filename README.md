@@ -42,4 +42,4 @@
 
 ### 📫 Get in touch
 Based in Värmland, Sweden  
-✉️ frida.lannerstrom@tqnordic.com
+✉️ frida.lannerstrom@tqainordic.com
